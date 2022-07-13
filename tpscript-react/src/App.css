@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  display: flex;
+  width: 80%;
+  margin: auto;
+ margin-top: 50px;
+ margin-left: 300px;
+}
+
+.counter{
+  background-color: beige;
+  width: 400px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.btn{
+  font-size: 20px;
+  width: 100px;
+padding: 5px;
+margin-left: 5px;
+border-radius: 5px;
+background-color: aquamarine;
+font-weight: bold;
+}
+
+.todos{
+  background-color: beige;
+  width: 400px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+.input{
+  padding: 10px;
+}
+.inputbtn{
+  padding: 10px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+
+.data{
+  background-color: aquamarine;
+  width: 220px;
+  padding: 10px;
+  margin: auto;
+  margin-top: 10px;
+}
